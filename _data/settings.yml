@@ -19,7 +19,7 @@ menu:
     link: /tags
   - name: About
     link: /about
-  - name: Follow me
+  - name: Seguimi 
     submenu:
       - name: GitHub
         icon: github

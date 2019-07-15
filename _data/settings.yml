@@ -13,12 +13,12 @@ menu:
         link: /projects/microbam
       - name: OurLegacy
         link: /projects/ourlegacy
-  - name: Posts
+  - name: Articoli
     link: /
   - name: Tags
     link: /tags
-  - name: About
-    link: /about
+  - name: Chi sono
+    link: /chi-sono
   - name: Seguimi 
     submenu:
       - name: GitHub

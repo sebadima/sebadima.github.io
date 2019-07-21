@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "xxxxxxxxxxxxxxxxX"
-date: 2019-07-23 05:00:00 +0200
-published: 2019-07-23 05:00:00 +0200
+title: "xxxx"
+date: 2019-07-20 05:00:00 +0200
+published: 2019-07-20 05:00:00 +0200
 comments: true
 categories: development
 tags: [quarkus, kubernetes, camel, kafka, smallrye]
-github: "https://github.com/sebadima/xxxxxxxxxxxxxX"
+github: "https://github.com/sebadima/xxxx"
 ---
 
 <p>
@@ -16,7 +16,7 @@ github: "https://github.com/sebadima/xxxxxxxxxxxxxX"
 </p>
 <!--more-->
 
-<h2>Iniziare un progetto</h2>
+<h2>xxxxxxxxxxxIniziare un progetto</h2>
 
 
 {% highlight java %}

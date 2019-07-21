@@ -19,7 +19,7 @@ description:
   This is a blog of someone passionate about technology who wants to share some of the things he knows
   about Application Development, Integration, Cloud, Big Data and Digital Transformation
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  sebadimapham
+github_username:  sebadima
 
 # jekyll-paginate configuration
 paginate: 10
@@ -37,7 +37,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: http://www.linkedin.com/in/sebadimapham
+author: http://www.linkedin.com/in/sebadima
 
 host: 0.0.0.0
 
